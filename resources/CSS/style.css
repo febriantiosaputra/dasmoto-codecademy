@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+}
+
+header, main {
+    margin-inline: 3px;
+} 
+header h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../images/bg-header.png");
+    margin-block: 50px;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    margin-block: 25px;
+}
+
+h3 {
+    margin-block: 25px;
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
+
+.product-one {
+    background-color: mediumspringgreen;
+}
+
+.product-two {
+    background-color: lightcoral;
+}
+
+.product-three {
+    background-color: skyblue;
+}
